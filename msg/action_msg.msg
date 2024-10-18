@@ -1,0 +1,10 @@
+string name
+string source
+string destination
+string object
+string object_info
+string person
+string person_info
+string location
+string voice_command
+string output_variable
