@@ -49,6 +49,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   action_msg.msg
+  action_result_msg.msg
   nlu_msg.msg
 )
 
